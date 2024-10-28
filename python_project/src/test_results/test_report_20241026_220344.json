@@ -1,0 +1,71 @@
+{
+    "timestamp": "20241026_220344",
+    "summary": {
+        "total_tests": 10,
+        "successful_tests": 10,
+        "successful_validations": 0,
+        "average_response_time": 3.0424326
+    },
+    "detailed_results": {
+        "4": {
+            "id": 4,
+            "prediction": 3,
+            "status": "success",
+            "response_time": 2.980774
+        },
+        "3": {
+            "id": 3,
+            "prediction": 2,
+            "status": "success",
+            "response_time": 2.997639
+        },
+        "1": {
+            "id": 1,
+            "prediction": 3,
+            "status": "success",
+            "response_time": 3.011897
+        },
+        "2": {
+            "id": 2,
+            "prediction": 3,
+            "status": "success",
+            "response_time": 3.019946
+        },
+        "5": {
+            "id": 5,
+            "prediction": 1,
+            "status": "success",
+            "response_time": 3.03694
+        },
+        "7": {
+            "id": 7,
+            "prediction": 3,
+            "status": "success",
+            "response_time": 2.996177
+        },
+        "8": {
+            "id": 8,
+            "prediction": 1,
+            "status": "success",
+            "response_time": 3.037868
+        },
+        "9": {
+            "id": 9,
+            "prediction": 3,
+            "status": "success",
+            "response_time": 3.068471
+        },
+        "6": {
+            "id": 6,
+            "prediction": 3,
+            "status": "success",
+            "response_time": 3.129144
+        },
+        "10": {
+            "id": 10,
+            "prediction": 0,
+            "status": "success",
+            "response_time": 3.14547
+        }
+    }
+}
