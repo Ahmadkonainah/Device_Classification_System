@@ -1,0 +1,22 @@
+# Ignore the VSCode configuration folder
+.vscode/
+
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore target folder (commonly used in Java projects)
+target/
+
+# Ignore node_modules (commonly used in JavaScript projects)
+node_modules/
+
+# Ignore environment files (do not store secrets in your repository)
+.env
